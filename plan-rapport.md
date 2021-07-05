@@ -1,26 +1,28 @@
-# Plan de rapport
-1. LISTE DES FIGURES
-2. INTRODUCTION
-3. BESOIN
-4. PROCESSUS DE DÉVELOPPEMENT
-    1. ANALYSE FONCTIONNELLE : DESIGN THINKING
-    2. CONCEPTION
-    3. REALISATION
-    4. DEPLOIMENT
+# PLAN DE RAPPORT
 
-5. GESTION DE PROJET
+- LISTE DES FIGURES
+
+- INTRODUCTION
+1. BESOIN
+2. PROCESSUS DE DÉVELOPPEMENT
+    1. Analyse fonctionnelle : DESIGN THINKING
+    2. Conception
+    3. Réalisation
+    4. Déploiment
+
+3. GESTION DE PROJET
     1. Methode agile
     2. Diagramme de gantt
 
-6. ANALYSE FONCTIONNELLE
-    1. EMPATHIE
-    2. DÉFINIR
-    3. IDÉATION
-    4. PROTOTYPE
-    5. TEST
-    6. IMPLEMENTATION : CAS D'UTILISATION
+4. ANALYSE FONCTIONNELLE
+    1. Empathie
+    2. Définir
+    3. Idéation
+    4. Prototype
+    5. Test
+    6. Implémentation : CAS D'UTILISATION
 
-7. CONCEPTION
+5. CONCEPTION
     1. Diagramme de classe
     2. Modèle logique de données : MLD
 
